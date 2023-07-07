@@ -1,7 +1,7 @@
-[![MasterHead](https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)]
+[![MasterHead]([https://images.pexels.com/photos/169573/pexels-photo-169573.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1](https://github.com/rangari123/rangari123/blob/main/SOFTWARE%20ENGINEER.png?raw=true))]
 <h1 align="center">Hi 👋, I'm Avishkar</h1>
 <h3 align="center">A Competitive Programmer and FrontEnd Developer</h3>
-<img align="right" alt="Coding-gif" width="400"   src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" >
+<img  alt="Coding-gif" width="256"   src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" >
       
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangari123&label=Profile%20views&color=0e75b6&style=flat" alt="rangari123" /> </p>
