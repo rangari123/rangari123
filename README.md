@@ -4,7 +4,7 @@
 <img align="right" alt="Coding-gif" width="350" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 - ⚛️ I’m currently learning **React**
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rangari123/overview](https://app.netlify.com/teams/rangari123/overview)
+- 👨‍💻 All of my projects are available at [https://github.com/rangari123?tab=repositories](https://github.com/rangari123?tab=repositories)
 - 💬 Ask me about **DSA, Web Development**
 - 📫 How to reach me: avishkarrangari213@gmail.com
 - 📄 Know about my experiences: [https://github.com/rangari123?tab=repositories](https://github.com/rangari123?tab=repositories)
