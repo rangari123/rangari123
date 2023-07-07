@@ -7,7 +7,7 @@
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/rangari123/overview](https://app.netlify.com/teams/rangari123/overview)
 - 💬 Ask me about **DSA, Web Development**
 - 📫 How to reach me: avishkarrangari213@gmail.com
-- 📄 Know about my experiences: [https://fluffy-sunflower-91bb6e.netlify.app/](https://fluffy-sunflower-91bb6e.netlify.app/)
+- 📄 Know about my experiences: [https://github.com/rangari123?tab=repositories](https://github.com/rangari123?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
